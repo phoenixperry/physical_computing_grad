@@ -1,5 +1,5 @@
 ###Lab Task 2 
-Due 29/01/2016. 
+Due 29/01/2016, 1PM. 
 
 Assignments:
 
