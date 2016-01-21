@@ -1,5 +1,5 @@
 ###Lab Task 1
-Due 25/01/2015, 1PM. 
+
 
 Instructions:
 

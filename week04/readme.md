@@ -1,6 +1,5 @@
 ##Lab Task 4
 
-Due: Dec. 8th at 3PM 
 
 **Instructions:**
 
