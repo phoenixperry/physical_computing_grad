@@ -1,5 +1,5 @@
 ###Lab Task 3 
-Due Wed of Dec, 2015 at 3pm.  
+
 
 Before doing these tasks hook up CIRC03 and CIRC04 from your kits. 
 
