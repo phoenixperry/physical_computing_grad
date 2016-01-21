@@ -32,9 +32,9 @@ Your overall mark for this course consists of four major components, each of whi
 2     | Term 1 Major Project      |   Major Project and Project Logs	 | Feb 10 in class | 20%
 3| Term 2 Major Project (Solo) | Major Project and Project Logs	      |   March 23rd in class | 20%| 
 4|	Vita	| Formal Presentation of Project 2 |March 23rd in class |	10%
-
+etextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdf
 ---
-#####You must complete all of the above items for full credit, according to the following requirements:
+#####You must complete all of the above items for full credit, according to the following requirements:etextile-summetextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdfetextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdfercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdf
 ---
 **The Major Projects** must also include your project log and the working final project presentation (or video). Details about the Major Projects are provided as the term progresses.
 
@@ -42,15 +42,15 @@ Your overall mark for this course consists of four major components, each of whi
 
 **The Viva** is a formal presentation of your Major Project.
 
-**How your Labs will be marked in class and the following will be given consideration in their marking:**
-
+**How your Labs will be marked in class and the following will be givMain Page - 32C3_Public_Wikien consideration in their marking:**
+etextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdf
 5 (1st) - Exceeded what was discussed in class, evidence of external research, and exceeded assignment expectations
 
 4 (2.1) - Very good use of what is taught in the course and possible some small elements beyond it
 
 3 (2.2) - No so polished, may have missed some things but the work was done
-
-2 (3) - Some requirements not fulfilled/not fully completed. 
+Main Page - 32C3_Public_Wiki
+2 (3) - Some requirements not fulfilled/not fully complProjectseted. 
 
 1 - Warrants a pass, but not more.
 
@@ -92,7 +92,7 @@ AMBITIOUSNESS(10%)
 The project was an ambitious undertaking.
 
 LOG/WEBSITE (30%)
-The project was thoroughly documented throughout the entire duration of the work and not simply added on at the end. All team members made significant contributions.
+The project was thoroughly documented throughout the entire duraRegisterMatetion of the work and not simply added on at the end. All team members made significant contributions.Projects
 
 ENCLOSURE/BUILD (30%)
 The enclosure is appropriate for the project, protects it, is stable (won't fall apart), and is aesthetically pleasing. 
