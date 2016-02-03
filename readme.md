@@ -32,25 +32,26 @@ Your overall mark for this course consists of four major components, each of whi
 2     | Term 1 Major Project      |   Major Project and Project Logs	 | Feb 10 in class | 20%
 3| Term 2 Major Project (Solo) | Major Project and Project Logs	      |   March 23rd in class | 20%| 
 4|	Vita	| Formal Presentation of Project 2 |March 23rd in class |	10%
-etextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdf
+
 ---
-#####You must complete all of the above items for full credit, according to the following requirements:etextile-summetextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdfetextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdfercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdf
----
+
+#####You must complete all of the above items for full credit, according to the following requirements:
+
 **The Major Projects** must also include your project log and the working final project presentation (or video). Details about the Major Projects are provided as the term progresses.
 
 **Coursework** (Lab Tasks 1-4) consists of lab tasks assigned each week. Your must keep an online log which must be detailed, and must include a video and diagrams. At the end of the 4 labs, you must select and submit one which you want to be marked formally. At the end of the 4 weeks this mark will be given the weight of 70% of your lab work and your week by week labs and logs will account for the other 30% of your lab work mark. 
 
 **The Viva** is a formal presentation of your Major Project.
 
-**How your Labs will be marked in class and the following will be givMain Page - 32C3_Public_Wikien consideration in their marking:**
-etextile-summercamp.org/swatch-exchange/wp-content/uploads/2014/07/SwatchBookExchange2015_PDF_spreads.pdf
+**How your Labs will be marked in class and the following will be used as the ranking score:** 
+
 5 (1st) - Exceeded what was discussed in class, evidence of external research, and exceeded assignment expectations
 
 4 (2.1) - Very good use of what is taught in the course and possible some small elements beyond it
 
 3 (2.2) - No so polished, may have missed some things but the work was done
-Main Page - 32C3_Public_Wiki
-2 (3) - Some requirements not fulfilled/not fully complProjectseted. 
+
+2 (3) - Some requirements not fulfilled/not fully complete. 
 
 1 - Warrants a pass, but not more.
 
