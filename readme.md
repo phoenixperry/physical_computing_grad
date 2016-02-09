@@ -39,7 +39,7 @@ Your overall mark for this course consists of four major components, each of whi
 
 **The Major Projects** must also include your project log and the working final project presentation (or video). Details about the Major Projects are provided as the term progresses.
 
-**Coursework** (Lab Tasks 1-4) consists of lab tasks assigned each week. Your must keep an online log which must be detailed, and must include a video and diagrams. At the end of the 4 labs, you must select and submit one which you want to be marked formally. At the end of the 4 weeks this mark will be given the weight of 70% of your lab work and your week by week labs and logs will account for the other 30% of your lab work mark. 
+**Coursework** (Lab Tasks 1-4) consists of lab tasks assigned each week. Your must keep an online log which must be detailed, and must include a video and diagrams. At the end of the 4 labs, you must select and submit one which you want to be marked formally. This lab must be handed in exactly as you submitted it in class without edits and the lab grade Perla gave you in class will stand. At the end of the 4 weeks this mark will be given the weight of 70% of your lab work and your week by week labs and logs will account for the other 30% of your lab work mark. 
 
 **The Viva** is a formal presentation of your Major Project.
 
