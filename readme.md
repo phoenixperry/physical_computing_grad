@@ -28,7 +28,7 @@ Your overall mark for this course consists of four major components, each of whi
 
 | Number        | Type              | Description   | Due Date   | Relative Weight| 
 | :-------------:|:-------------:| :-----:| :-----:| :-----:| :-----:| :-----:|
-1    | Lab work | Online Logs for Lab Tasks | week by week in class | 40% | 
+1    | Lab work | Online Logs for Lab Tasks | week by week in class | 50% | 
 2     | Term 1 Major Project      |   Major Project and Project Logs	 | Feb 10 in class | 20%
 3| Term 2 Major Project (Solo) | Major Project and Project Logs	      |   March 23rd in class | 20%| 
 4|	Vita	| Formal Presentation of Project 2 |March 23rd in class |	10%
