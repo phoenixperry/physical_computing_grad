@@ -3,7 +3,7 @@
 
 Before doing these tasks hook up CIRC03 and CIRC04 from your kits. 
 
-3.1 Attach the Light Dependent Resister (LDR) to an analog input pin. Wire it up with a voltage divider circuit that results in a good range of analog readings. (ie: not a range of 0 to 10). Use the Serial console to assess the resulting readings. AKA experiment with the map() function from the ardino sdk. 
+3.1 Attach the Light Dependent Resister (LDR) to an analog input pin. Wire it up with a voltage divider circuit that results in a good range of analog readings. (ie: not a range of 0 to 10). Use the Serial console to assess the resulting readings. AKA experiment with the map() function from the arduino sdk. 
 https://www.arduino.cc/en/Reference/Map
 
 3.2 Add an LED to a PWM pin on the Arduino and change the PWM duty cycle of that LED using the LDR (The closer your hand gets to the LDR, the brighter the LED and vice versa)
@@ -19,7 +19,7 @@ http://makezine.com/projects/dark-detecting-led/
 
 3.5 Attach a SERVO motor to your breadboard. Rotate the servo in one direction and then the other. Use the servo library included in Arduino 
 
-3.6 Use a sensor of some kind (LDR or POTENTIOMETER) to control the position of the SERVO. In your write-up in Section 4 below, in addition to describing your testing and notes, describe how you might use this in a project.
+3.6 Use a sensor of some kind (LDR or POTENTIOMETER) to control the position of the SERVO. In your write-up in your analysis, in addition to describing your testing and notes, describe how you might use this in a project.
 
 3.7 Add a PWM-controlled LED pin to this setup and link the LEDs brightness to the rotation of the Servo motor. **Make a video of this.**
 
@@ -28,8 +28,8 @@ http://makezine.com/projects/dark-detecting-led/
 **Documentation:**
 You must use the following format, in 7 sections, to record your work. Sections 1-6 must be in a .pdf document with highlightable text (aka make sure I can click your youtube links). Zip this .pdf up with your code files and submit it on learn.gold 
 
-**Requirements**
-(What Design problem are you going to solve with this task?)
+##Requirements for each task 
+(What design problem are you going to solve with this task?)
 
 **Analysis**
 (What hardware components will you need? What software will you use to support the requirements?)
