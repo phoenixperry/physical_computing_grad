@@ -43,7 +43,7 @@ You must use the following format, in 7 sections, to record your work. Sections 
 **Diagrams**
 Images of a breadboard diagram and schematic diagram. The breadboard diagram and the schematic diagram image are exported from Fritzing. This means you should draw the circuit you built using Fritzing and output both a Diagram and a Schematic.  
 
-**Videos:**
+**Videos of Required tasks:**
 A short video documenting your project <1 minute, linked from YouTube using the "old embed code" option.
 
 **Code:**
