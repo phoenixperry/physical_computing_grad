@@ -116,9 +116,8 @@ Mark: 70
 
 
 #####Team: NaWon Paek & Yeon A Kim 
-url: nawonp.blogspot.co.uk
-http://yeonaportfolio.blogspot.com
-Mark: 
+url: http://yeonaportfolio.blogspot.co.uk/2016/02/minor-project_23.html
+ 
 * love game aspect 
 * needs a case 
 * cool sound could add juice 
